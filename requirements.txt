@@ -1,0 +1,7 @@
+pandas
+transformers
+torch
+datasets
+milvus-cli==0.4.2
+protobuf==3.20.0
+pymilvus==2.3.4
